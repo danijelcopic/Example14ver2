@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pizzas">
+        <item>MARGHERITA</item>
+        <item>FEFERONI</item>
+        <item>CAPRICCIOSA</item>
+    </string-array>
+</resources>

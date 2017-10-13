@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PICA</string>
+    <string name="activity2_name">PICA</string>
+    <string name="button_order">NARUČI</string>
+    <string name="ingridients">SASTOJCI:</string>
+    <string name="category">VRSTA: </string>
+    <string name="calorie">KALORIJE: </string>
+
+</resources>
